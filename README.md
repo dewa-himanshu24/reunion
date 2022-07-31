@@ -1,7 +1,8 @@
 # REUNION
 It is a Single Page Real Estate “Rent a Property” web app made for fun and learning.
 It is built with React and uses Bootstrap for styling.
-CHeck it out here - 
+
+Check it out here - https://synonymous-ripple-cheddar.glitch.me/
 
 It has 4 filtering mechanism as follows
 
