@@ -310,7 +310,7 @@ export const mockData = {
     },
     {
       id: 19,
-      name: "Palm Harbor",
+      name: "Swarg Se Sundar",
       image: "./villa1.jpg",
       moveInDate: "2022-08-10",
       rentAmount: 2095,
@@ -344,7 +344,7 @@ export const mockData = {
     },
     {
       id: 21,
-      name: "Faulkner Ave",
+      name: "Cheer Sagar",
       image: "./duplex1.jpg",
       moveInDate: "2022-10-10",
       rentAmount: 4550,

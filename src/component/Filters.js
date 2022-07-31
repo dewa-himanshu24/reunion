@@ -1,8 +1,8 @@
 import React from "react";
-import DatePicker from "./DatePicker";
-import Location from "./Location";
-import Price from "./Price";
-import PropertyType from "./PropertyType";
+import DatePicker from "./filters/DatePicker";
+import Location from "./filters/Location";
+import Price from "./filters/Price";
+import PropertyType from "./filters/PropertyType";
 
 
 const Filters = (props) => {

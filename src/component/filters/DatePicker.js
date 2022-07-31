@@ -1,5 +1,5 @@
 import React, {useContext} from "react";
-import { GlobalContext } from "../globalContext";
+import { GlobalContext } from "../../globalContext";
 
 const DatePicker = () => {
   const globalContext = useContext(GlobalContext)

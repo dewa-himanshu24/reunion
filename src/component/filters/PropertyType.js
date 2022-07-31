@@ -1,6 +1,6 @@
 import React, {useContext} from "react";
-import { GlobalContext } from "../globalContext";
-import { propertyType } from '../mockData';
+import { GlobalContext } from "../../globalContext";
+import { propertyType } from '../../mockData';
 
 
 const PropertyType = () => {

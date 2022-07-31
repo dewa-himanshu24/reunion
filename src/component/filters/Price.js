@@ -1,6 +1,6 @@
 import React, { useContext, useEffect } from "react";
 import ReactSlider from "react-slider";
-import { GlobalContext } from "../globalContext";
+import { GlobalContext } from "../../globalContext";
 import "./Price.css";
 
 
