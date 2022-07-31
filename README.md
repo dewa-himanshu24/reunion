@@ -10,7 +10,7 @@ It has 4 filtering mechanism as follows
 ![image](https://user-images.githubusercontent.com/101580513/182015857-48569c7a-9e1e-4683-9d9e-7f2f8d38d872.png)
 
 
-- Date - Filters search results as per the move-in date. Calender acan be used to pick the date.
+- Date - Filters search results as per the move-in date. Calender can be used to pick the date.
 
 ![image](https://user-images.githubusercontent.com/101580513/182015993-314dc47d-d2d8-4b73-b772-3d07c4ddcee1.png)
 
