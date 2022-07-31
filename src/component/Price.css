@@ -1,0 +1,43 @@
+:root {
+  --gray: #e4e4e4;
+  --char-coal: #383838;
+  --white: #fff;
+}
+
+.slider {
+  cursor: pointer;
+  width: 100%;
+}
+
+.track {
+  background-color: var(--gray);
+  height: 2px;
+}
+
+.track:nth-child(2) {
+  background-color: var(--char-coal);
+}
+
+.thumb {
+  width: 0.75rem;
+  height: 0.75rem;
+  background: var(--white);
+  border: 2px solid var(--char-coal);
+  border-radius: 50%;
+  cursor: pointer;
+  position: absolute;
+  top: -7px;
+}
+
+.values-wrapper {
+  margin-top: 2rem;
+}
+
+p {
+  font-weight: 500;
+  font-size: large;
+}
+
+p span {
+  font-weight: 600;
+}
